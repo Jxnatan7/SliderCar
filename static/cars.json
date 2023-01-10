@@ -1,0 +1,39 @@
+[
+  {
+    "id": "1",
+    "name": "BMW 1" ,
+    "price": 24923.99,
+    "image": "static/cars/1.png"
+  },
+  {
+    "id": "2",
+    "name": "BMW 2" ,
+    "price": 12249.99,
+    "image": "static/cars/2.png"
+  },
+  {
+    "id": "3",
+    "name": "BMW 3" ,
+    "price": 25249.99,
+    "image": "static/cars/3.png"
+  },
+  {
+    "id": "4",
+    "name": "BMW 4" ,
+    "price": 22349.99,
+    "image": "static/cars/4.png"
+  },
+  {
+    "id": "5",
+    "name": "BMW 5" ,
+    "price": 41259.99,
+    "image": "static/cars/5.png"
+  },
+  {
+    "id": "6",
+    "name": "BMW 6" ,
+    "price": 12269.99,
+    "image": "static/cars/6.png"
+  }
+]
+ 
