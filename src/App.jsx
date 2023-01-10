@@ -25,14 +25,13 @@ function App() {
 
   return (
     <div className="container">
-
+      <h1>Estou aprendendo git</h1>
       <div className="carousel" ref={carousel}>
         {data.map((item) => {
           const { id, name, price, image } = item
 
           return (
             <div className="item" key={id}>
-              <h1>Estou aprendendo git</h1>
               <div className="image">
                 <img src={image} alt={name} />
               </div>
