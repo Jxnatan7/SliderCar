@@ -32,6 +32,7 @@ function App() {
 
           return (
             <div className="item" key={id}>
+              <h1>Estou aprendendo git</h1>
               <div className="image">
                 <img src={image} alt={name} />
               </div>
